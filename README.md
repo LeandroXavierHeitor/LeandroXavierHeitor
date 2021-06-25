@@ -4,8 +4,10 @@
 - 💞️ Busco mostrar meus projetos e encontrar uma vaga onde possa aplicar minhas dedicações e habilidades para entregar o melhor trabalho possível!
 - 📫 Me encontre em: 
 
-. Emai: leandroxavierheitor10@gmail.co
+. Emai: leandroxavierheitor10@gmail.com
+<br/>
 . Whatsapp: 11 977489638
+<br/>
 . Linkedin: https://www.linkedin.com/in/leandro-xavier-heitor-15348a208/
 
 <!---
