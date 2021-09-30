@@ -1,7 +1,5 @@
 - 👋 Olá meu nome é Leandro Xavier
 - 👀 Sou estudante na área de TI, focado em Desenvolvimento Web e Mobile!
-- 🌱 Estou atualmente cursando meu último ano no curso técnico em Desenvolvimento de Sistemas, seguindo pra cursar superior na área
-- 💞️ Busco mostrar meus projetos e encontrar uma vaga onde possa aplicar minhas dedicações e habilidades para entregar o melhor trabalho possível!
 - 📫 Me encontre em: 
 
 . Email: leandroxavierheitor10@gmail.com
