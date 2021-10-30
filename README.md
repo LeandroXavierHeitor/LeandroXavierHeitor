@@ -1,6 +1,6 @@
-## Hi, I'm Leandro Xavier, Web and Mobile Developer 🇧🇷
+## Hi, I'm Leandro Xavier, Web and Mobile Developer 
 
-<div align="center" height="360em">
+<div align="center">
   <a href="">
   <img height="146em" src="https://github-readme-stats.vercel.app/api?username=LeandroXavierHeitor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="146em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroXavierHeitor&layout=compact&langs_count=7&theme=dark"/>
